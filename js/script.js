@@ -901,7 +901,7 @@
     initReveal();
     collectMotion();
     initCursor();
-    initMagnets();
+    // initMagnets();
     initMobileMenu();
     initServices();
     initForm();
