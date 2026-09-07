@@ -102,11 +102,11 @@
       'pr.n1': 'Landing page', 'pr.n2': 'Business website',
       'pr.n3': 'WordPress shop', 'pr.n4': 'Custom website',
       'pr.from': 'from',
-      'pr.stat': 'Lower than a typical agency. <em>Not lower-quality work.</em>',
+      'pr.stat': 'Price lower than a typical agency. <em>High-quality work.</em>',
       'pr.fine': 'Prices are approximate quotes, not fixed prices. The final cost depends on the available timeframe, complexity, required functionality, integrations, amount of content and amount of work required.',
 
       'pc.label': 'Process',
-      'pc.title': 'Three steps. <em>No theatre.</em>',
+      'pc.title': 'Three steps.',
       'pc.h1': 'Tell me what you need', 'pc.p1': 'A short conversation about the project, the goal and the budget.',
       'pc.h2': 'Design & build',        'pc.p2': 'I design and build the site around that specific project.',
       'pc.h3': 'Polish & launch',       'pc.p3': 'Refinement, testing, optimisation and going live.',
@@ -208,7 +208,7 @@
       'pr.fine': 'Podane ceny są orientacyjne, a nie stałe. Końcowa cena zależy od dostępnego czasu, złożoności projektu, wymaganych funkcji, integracji, ilości treści oraz zakresu prac.',
 
       'pc.label': 'Proces',
-      'pc.title': 'Trzy kroki. <em>Bez teatru.</em>',
+      'pc.title': 'Trzy kroki.',
       'pc.h1': 'Opowiedz, czego potrzebujesz', 'pc.p1': 'Krótka rozmowa o projekcie, celu i budżecie.',
       'pc.h2': 'Projekt i budowa',             'pc.p2': 'Projektuję i buduję stronę pod konkretny projekt.',
       'pc.h3': 'Dopracowanie i publikacja',    'pc.p3': 'Dopracowanie, testy, optymalizacja i publikacja.',
