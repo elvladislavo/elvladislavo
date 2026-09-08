@@ -709,7 +709,7 @@
         var word = document.createElement('span');
         word.textContent = w;
         var star = document.createElement('i');
-        star.textContent = '0';
+        star.textContent = '*';
         seq.appendChild(word);
         seq.appendChild(star);
       });
